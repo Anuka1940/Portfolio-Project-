@@ -23,7 +23,7 @@
 
 The Calendar Shift App is a web-based application designed to help users visualize and manage their work shifts over an extended period, up to 3 to 5 years. The app allows users to input their initial shift pattern and generates a full calendar with days color-coded based on their shifts. The shift pattern typically consists of 2 consecutive days in the afternoon, followed by 2 consecutive days in the morning, 2 consecutive days in the night, and 2 days off.
 
-
+### VISIT SITE [VISIT SITE] (https://anuka1940.github.io/Portfolio_Project/)
 ### Features 
 * Shift Pattern Visualization: Displays a calendar with days colored according to the user’s shift pattern.
 * Customizable Start Date: Users can input their start date to see how their shifts align with the calendar.
